@@ -1,0 +1,8 @@
+    1  lsb_release -d
+    2  lscpu
+    3  clear
+    4  free -h
+    5  df -h
+    6  mkdir test
+    7  ls
+    8  history > command.txt
